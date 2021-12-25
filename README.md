@@ -4,7 +4,7 @@ not bad HTTP flooding script.
 
 
 
-<h2>Install dependencies</h2>
+<h2>Installation</h2>
 to use the script you have to install python 3 and some other things.
 
 To install it you need to type in your terminal:
