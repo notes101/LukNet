@@ -16,8 +16,6 @@ If you use windows type:
 
  and then:
 <pre>cd luknet</pre>
-If you use windows type:
-<pre>py -m pip install pysocks</pre>
 
 <h2>Usage</h2>
 Just type on a terminal:
