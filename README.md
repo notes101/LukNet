@@ -1,9 +1,7 @@
 # LukNet
 not bad HTTP flooding script.
-You can choose if use proxy/socks to anonymize attack.
 
-Please suggest me some ideas, and report bugs!
-Thanks!
+
 
 
 <h2>Install dependencies</h2>
