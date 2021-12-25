@@ -10,14 +10,14 @@ Thanks!
 to use the script you have to install python 3 and some other things.
 
 To install it you need to type in your terminal:
-<pre>git clone https://github.com/notes101/LukNet<pre>
+<pre>git clone https://github.com/notes101/LukNet</pre>
  after that type:
 <pre>pip3 install pysocks</pre>
 If you use windows type:
 <pre>py -m pip install pysocks</pre>
 
  and then:
-<pre>cd luknet/LukNet<pre>
+<pre>cd luknet/LukNet</pre>
 If you use windows type:
 <pre>py -m pip install pysocks</pre>
 
@@ -25,4 +25,4 @@ If you use windows type:
 Just type on a terminal:
 <pre>python3 LukNet.py</pre>
 or if you use windows:
-<pre>py LukNet.py<pre>
+<pre>py LukNet.py</pre>
