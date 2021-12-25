@@ -15,7 +15,7 @@ If you use windows type:
 <pre>py -m pip install pysocks</pre>
 
  and then:
-<pre>cd luknet/LukNet</pre>
+<pre>cd luknet</pre>
 If you use windows type:
 <pre>py -m pip install pysocks</pre>
 
